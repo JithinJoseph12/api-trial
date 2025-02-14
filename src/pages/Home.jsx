@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import Man from '../assets/man.jpeg'
+import Man from '../assets/man.jpg'
 import { Card, Col, Row } from 'react-bootstrap'
 import './Home.css'
 
@@ -58,13 +58,7 @@ const Home = () => {
              
               className="text-justify fs-5"
             >
-              Motivated individual with a strong work ethic and the ability to work
-              independently. Possesses excellent organizational and team collaboration
-              skills, with experience in conducting technical events. A talented student with
-              a systematic approach to learning, demonstrating keen problem-solving
-              abilities and attention to detail. Skilled in managing multiple tasks efficiently.
-              Eager to contribute innovative solutions and grow in a dynamic tech
-              environment. Committed to continuous learning and personal development.
+             Full Stack Web Developer and B.Tech graduate with a passion for building impactful applications that enhance user experience and design. Proficient in HTML, CSS, JavaScript, React, and Tailwind CSS, with expertise in frameworks such as Angular and Express. Currently deepening my expertise in the MERN stack and modern technologies, with a strong eagerness to apply new knowledge in practical projects. I thrive in fast-paced environments, creating high-performance, responsive applications, and collaborating with tech enthusiasts dedicated to crafting high-quality software solutions. Excited to continuously grow and contribute to the ever-evolving tech landscape.
             </p>
 
             {/* Information Section */}
